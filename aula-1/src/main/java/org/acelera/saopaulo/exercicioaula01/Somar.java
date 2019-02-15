@@ -7,5 +7,5 @@ public class Somar implements Operacao{
 		
 		return a+b;
 	}
-
+	
 }

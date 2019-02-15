@@ -15,6 +15,7 @@ public class App7 {
 		System.out.println("Resultado da dividir = " + dividir);
 		System.out.println("Resultado da multiplicar = " + multiplicar);
 
+
 	}
 
 }
