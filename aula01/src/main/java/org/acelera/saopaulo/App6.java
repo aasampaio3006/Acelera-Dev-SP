@@ -12,13 +12,14 @@ public class App6 {
 		estoque.criar("Lapis" , 4);
 		
 		System.out.println(estoque.getController());
-		estoque.remove("Cerveja", 9);
+		estoque.remove("Cerveja", 19);
 		estoque.add("Melao" , 14);
 		estoque.add("Uva" , 14);
 		estoque.add("Ovo", 100);
 		System.out.println(estoque.getController());
 		estoque.remove("Ovo", 10);
 		System.out.println(estoque.getController());
+		
 		
 		
 	}

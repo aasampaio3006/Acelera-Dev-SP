@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Estoque {
 	
-	private static Map<String, Integer> controller = new HashMap<String, Integer>();
+	private  Map<String, Integer> controller = new HashMap<String, Integer>();
 
 	public void criar(String produto, int quantidade) {	
 		if (quantidade < 0) {
@@ -42,8 +42,8 @@ public class Estoque {
 		}
         	}	
 	
-	public static Map<String, Integer> getController() {
-		return controller;
+	public  Map<String, Integer> getController() {
+		return this.controller;
 	}
 
 	

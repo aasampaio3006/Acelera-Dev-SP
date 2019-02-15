@@ -1,4 +1,4 @@
-package org.acelera.saopaulo.exercicioaula01;
+package org.acelera.saopaulo.exercicio;
 
 public class Multiplicar implements Operacao{
 

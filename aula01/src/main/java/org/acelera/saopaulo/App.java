@@ -1,11 +1,12 @@
 package org.acelera.saopaulo;
 
+
 public class App {
 
 	public static void main(String[] args) {
 		// primitivo
 		int inteiro = 10;
-		// aponta para endereço copia valor
+		// aponta para endereï¿½o copia valor
 		Integer integer = 10;
 		long mario = 2L;
 		float varia = 23.2F;

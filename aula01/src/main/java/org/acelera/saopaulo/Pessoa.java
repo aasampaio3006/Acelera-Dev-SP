@@ -9,7 +9,7 @@ public class Pessoa {
 	
 	//private visivel mais seguro
 	//default visivel pacote 
-	//protected visivel por pacote ou herança
+	//protected visivel por pacote ou heranï¿½a
 	//public visivel para todos
 	
 	//metoto construtor responsavel por criar uma instancia da classe 

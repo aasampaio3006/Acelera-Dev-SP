@@ -1,4 +1,6 @@
-package org.acelera.saopaulo.exercicioaula01;
+package org.acelera.saopaulo.exercicio;
+
+
 
 public class App7 {
 
